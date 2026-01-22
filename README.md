@@ -17,5 +17,5 @@ I build AI-powered developer tools and smart contract infrastructure.
 
 ## Links
 
-- [LinkedIn](https://linkedin.com/in/brandonbrooks)
-- [Twitter/X](https://twitter.com/brandonbrooks)
+- [LinkedIn](https://www.linkedin.com/in/inventrify/)
+- [X](https://x.com/OfficialBBrooks)
